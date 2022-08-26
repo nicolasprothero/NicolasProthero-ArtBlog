@@ -1,8 +1,9 @@
-baseURL: http://example.org/
+baseURL: https://nicolasprothero.github.io/NicP-Blog/
 languageCode: en-us
 title: Nicolas Prothero's Blog
 theme: PaperMod
 enableEmoji: true
+publishDir: 'docs'
 
 params:
     homeInfoParams:
