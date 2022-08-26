@@ -14,4 +14,4 @@ After almost two entire decades, Burger King's rebrand is a refreshing update to
 
 ![](https://www.stirworld.com/images/article_gallery/burger-king-introduces-its-first-visual-rebrand-in-20-years-burger-king-rebranding-jones-knowles-ritchie-stirworld-210113014811.jpg)
 
-It was quite hard for me to decide on what my favorite art piece was. So I decided on picking one of my favorite graphic design rebrand campaigns, and Burger King's was the first that came to mind. 
+It was quite hard for me to decide what my favorite art piece is. I decided on picking one of my favorite graphic design rebrand campaigns instead. The first one to come to mind was Burger King's 2021 rebrand.
