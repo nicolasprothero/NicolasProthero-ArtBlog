@@ -1,6 +1,6 @@
 baseURL: https://nicolasprothero.github.io/NicP-Blog/
 languageCode: en-us
-title: Nicolas Prothero's Blog
+title: Nic Prothero's Blog
 theme: PaperMod
 enableEmoji: true
 publishDir: 'docs'
@@ -8,10 +8,8 @@ publishDir: 'docs'
 params:
     homeInfoParams:
         Title: Hi there {{< emoji ":wave:" >}}
-        Content: Can be Info, links, about...
+        Content: Welcome to Nicolas Prothero's blog for DIG2131C.
 
     socialIcons: # optional
         - name: "instagram"
           url: "https://instagram.com/nic_hase"
-        - name: "github"
-          url: "https://github.com/nicolasprothero"
