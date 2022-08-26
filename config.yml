@@ -1,0 +1,16 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Nicolas Prothero's Blog
+theme: PaperMod
+enableEmoji: true
+
+params:
+    homeInfoParams:
+        Title: Hi there {{< emoji ":wave:" >}}
+        Content: Can be Info, links, about...
+
+    socialIcons: # optional
+        - name: "instagram"
+          url: "https://instagram.com/nic_hase"
+        - name: "github"
+          url: "https://github.com/nicolasprothero"
