@@ -15,3 +15,7 @@ This project is a digital work created to help bring to light the harm that come
 1. By just looking at the piece, is the topic easily understood or is context necessary?
 2. Are there any parts of the piece that seemed unnecessary and should have not been included?
 3. If I were to continue working on the piece is there anything else that should have been included/talked about?
+
+
+### Photoshop Layers
+![](https://i.imgur.com/E8Sz7HR.png)
