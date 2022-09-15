@@ -1,6 +1,6 @@
 baseURL: https://nicolasprothero.github.io/NicP-Blog/
 languageCode: en-us
-title: Nic's Blog
+title: Nic Prothero's Blog
 theme: PaperMod
 enableEmoji: true
 publishDir: 'docs'
