@@ -4,7 +4,7 @@ date: 2022-09-14T16:10:59-04:00
 
 cover:
   image: "https://i.imgur.com/awXGnqZ.jpg"
-  caption: "Project One Tropisms"
+  caption: "Nicolas Prothero, \"Tropisms\", 2022"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
