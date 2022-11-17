@@ -3,7 +3,7 @@ title: "Project One - Tropisms"
 date: 2022-09-14T16:10:59-04:00
 
 cover:
-  image: "https://i.imgur.com/awXGnqZ.jpg"
+  image: "images/Project1.jpeg"
   caption: "Nicolas Prothero, \"Tropisms\", 2022"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
@@ -18,4 +18,4 @@ This project is a digital work created to help bring to light the harm that come
 
 
 ### Photoshop Layers
-![](https://i.imgur.com/E8Sz7HR.png)
+![](/photos/Project1Layers.png)

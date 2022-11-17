@@ -1,13 +1,13 @@
 baseURL: https://nicolasprothero.github.io/NicolasProthero-ArtBlog/
 languageCode: en-us
-title: Nic Prothero's Blog
+title: Nic's Art Blog
 theme: PaperMod
 enableEmoji: true
 publishDir: 'docs'
 
 params:
     homeInfoParams:
-        Title: Hi there {{< emoji ":wave:" >}}
+        Title: Hello {{< emoji ":wave:" >}}
         Content: Welcome to Nicolas Prothero's blog for DIG2131C.
 
     socialIcons: # optional

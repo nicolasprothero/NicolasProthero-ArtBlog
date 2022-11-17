@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Nic Prothero&#39;s Blog</title>
+    <title>Nic&#39;s Art Blog</title>
     <link>https://nicolasprothero.github.io/NicolasProthero-ArtBlog/</link>
-    <description>Recent content on Nic Prothero&#39;s Blog</description>
+    <description>Recent content on Nic&#39;s Art Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Oct 2022 13:49:39 -0400</lastBuildDate><atom:link href="https://nicolasprothero.github.io/NicolasProthero-ArtBlog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Nov 2022 15:53:52 -0500</lastBuildDate><atom:link href="https://nicolasprothero.github.io/NicolasProthero-ArtBlog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Three - Monument and Sensation</title>
+      <link>https://nicolasprothero.github.io/NicolasProthero-ArtBlog/posts/project3/</link>
+      <pubDate>Wed, 16 Nov 2022 15:53:52 -0500</pubDate>
+      
+      <guid>https://nicolasprothero.github.io/NicolasProthero-ArtBlog/posts/project3/</guid>
+      <description>Project Statement This project is a digital rotoscope animation created in Adobe Photoshop. My project&amp;rsquo;s goal was to discuss monuments that are celebrated even though one was absent for the sensation that created them. My focus was specifically on the many monumental events and dates in ones life that are celebrated although one was not present for the sensation that provides reason for celebration. The example I decided to focus on in this project is one’s own birth and the celebration of a birthday.</description>
+    </item>
+    
     <item>
       <title>Project Two - Dis/Embodiment</title>
       <link>https://nicolasprothero.github.io/NicolasProthero-ArtBlog/posts/project2/</link>

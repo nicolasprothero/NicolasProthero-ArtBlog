@@ -3,7 +3,7 @@ title: "Project Two - Dis/Embodiment"
 date: 2022-10-18T13:49:39-04:00
 
 cover:
-  image: "https://i.imgur.com/QpeViQD.jpg"
+  image: "images/Project2-Disembodiment.png"
   caption: "Nicolas Prothero, \"Disembodiment\", 2022"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
