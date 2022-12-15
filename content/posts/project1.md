@@ -18,4 +18,4 @@ This project is a digital work created to help bring to light the harm that come
 
 
 ### Photoshop Layers
-![](/photos/Project1Layers.png)
+![Layers](../images/Project1Layers.png)
