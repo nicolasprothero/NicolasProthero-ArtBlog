@@ -19,8 +19,11 @@ Because of this, I decided that for my other collages I wanted to wander around 
 
 These are the screencaps that I selected:
 
-![House](../images/Car.png)
-![House](../images/TwoPeople.png)
+![Car](../images/Car.png)
+![Two People](../images/TwoPeople.png)
+![Seaside](../images/seaside.png)
+![Lone Person](../images/lone.png)
+![Hotel and Car](../images/hotelcar.png)
 
 Once I found the location, I took multiple screenshots in order to create a collage where then the screencap from the film could be inserted.  
 
@@ -32,6 +35,16 @@ Results:
 
 ![Ocean](../images/Project4Drive.png)
 ###### 📍 Hiroshima Naka Incineration Plant, Hiroshima, Japan  
+
+![Bridge](../images/Project4Seaside.png)
+###### 📍 Yuryo Parking Lot, Kure, Hiroshima, Japan  
+
+![Ocean](../images/Project4Lone.png)
+###### 📍 御手洗 豊町 Kure, Hiroshima, Japan
+
+![Ocean](../images/Project4Hotel.png)
+###### 📍 Grand Prince Hotel Hiroshima, Hiroshima, Japan  
+
 
 
 ### Questions
